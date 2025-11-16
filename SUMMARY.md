@@ -1,8 +1,12 @@
 # Table of contents
 
+## Module 01&#x20;
+
+* [Як працюють браузери](README.md)
+
 ## CSS Методології
 
-* [CSS-методології](README.md)
+* [CSS-методології](<README (1).md>)
 * [Методологія BEM](css-metodologiyi/metodologiya-bem.md)
 * [БЕМ - Блок](css-metodologiyi/bem-blok.md)
 * [БЕМ - Елемент](css-metodologiyi/bem-element.md)
