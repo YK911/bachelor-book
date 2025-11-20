@@ -32,6 +32,7 @@
   * [Flow-control директиви: @if | @each | @for](preprocesori/zanyattya-22/flow-control-direktivi-if-or-each-or-for.md)
   * [Функції: @function](preprocesori/zanyattya-22/funkciyi-function.md)
 * Заняття 23
+  * [Вбудовані модулі Sass](preprocesori/zanyattya-23/vbudovani-moduli-sass.md)
   * [Списки. Про тип List в SASS](preprocesori/zanyattya-23/spiski.-pro-tip-list-v-sass.md)
   * [Словники. Про тип Map в SASS](preprocesori/zanyattya-23/slovniki.-pro-tip-map-v-sass.md)
 * Заняття 24
