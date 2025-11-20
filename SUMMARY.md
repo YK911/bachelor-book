@@ -33,7 +33,7 @@
   * [Функції: @function](preprocesori/zanyattya-22/funkciyi-function.md)
 * Заняття 23
   * [Вбудовані модулі Sass](preprocesori/zanyattya-23/vbudovani-moduli-sass.md)
-  * [Списки. Про тип List в SASS](preprocesori/zanyattya-23/spiski.-pro-tip-list-v-sass.md)
+  * [Списки](preprocesori/zanyattya-23/spiski.md)
   * [Словники. Про тип Map в SASS](preprocesori/zanyattya-23/slovniki.-pro-tip-map-v-sass.md)
 * Заняття 24
   * [Page 4](preprocesori/zanyattya-24/page-4.md)
