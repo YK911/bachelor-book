@@ -17,16 +17,24 @@
 
 ## Препроцесори
 
-* [Препроцесори](preprocesori/preprocesori.md)
-* [Директива @use](preprocesori/direktiva-use.md)
-* [Змінні](preprocesori/zminni.md)
-* [Вкладені правила](preprocesori/vkladeni-pravila.md)
-* [Арифметичні операції](preprocesori/arifmetichni-operaciyi.md)
-* [Директива @extend](preprocesori/direktiva-extend.md)
-* [Директива @mixin](preprocesori/direktiva-mixin.md)
-* [Директива @each](preprocesori/direktiva-each.md)
-* [Функції. Директива @function](preprocesori/funkciyi.-direktiva-function.md)
-* [Мапи (словники)](preprocesori/mapi-slovniki.md)
+* Заняття 19
+  * [Препроцесори](preprocesori/zanyattya-19/preprocesori.md)
+  * [Директива @use](preprocesori/zanyattya-19/direktiva-use.md)
+* Заняття 20
+  * [Змінні](preprocesori/zanyattya-20/zminni.md)
+  * [Вкладені правила](preprocesori/zanyattya-20/vkladeni-pravila.md)
+  * [Арифметичні операції. Інтерполяція](preprocesori/zanyattya-20/arifmetichni-operaciyi.-interpolyaciya.md)
+* Заняття 21
+  * [Директива @extend](preprocesori/zanyattya-21/direktiva-extend.md)
+  * [Директива @mixin](preprocesori/zanyattya-21/direktiva-mixin.md)
+* Заняття 22
+  * [Директиви SASS](preprocesori/zanyattya-22/direktivi-sass.md)
+  * [Flow-control директиви: @if | @each | @for](preprocesori/zanyattya-22/flow-control-direktivi-if-or-each-or-for.md)
+  * [Функції. Директива @function](preprocesori/zanyattya-22/funkciyi.-direktiva-function.md)
+* Заняття 23
+  * [Мапи (словники)](preprocesori/zanyattya-23/mapi-slovniki.md)
+* Заняття 24
+  * [Page 4](preprocesori/zanyattya-24/page-4.md)
 * CSS Frameworks
   * [CSS Фреймворки](preprocesori/css-frameworks/css-freimvorki.md)
   * [Модульна сітка](preprocesori/css-frameworks/modulna-sitka.md)
