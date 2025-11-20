@@ -7,8 +7,8 @@
 ## Module 09. Препроцесори. Sass
 
 * [Заняття 19](module-09.-preprocesori.-sass/zanyattya-19/README.md)
-  * [Директива @use](module-09.-preprocesori.-sass/zanyattya-19/direktiva-use.md)
   * [Препроцесори](module-09.-preprocesori.-sass/zanyattya-19/preprocesori.md)
+  * [Директива @use](module-09.-preprocesori.-sass/zanyattya-19/direktiva-use.md)
 * [Заняття 20](module-09.-preprocesori.-sass/zanyattya-20/README.md)
   * [Змінні](module-09.-preprocesori.-sass/zanyattya-20/zminni.md)
   * [Вкладені правила](module-09.-preprocesori.-sass/zanyattya-20/vkladeni-pravila.md)
