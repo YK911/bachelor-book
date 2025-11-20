@@ -26,17 +26,20 @@
   * [Словники](module-09.-preprocesori.-sass/zanyattya-23/slovniki.md)
 * Заняття 24
   * [Утилітні класи. Принципи побудови дизайн-системи](module-09.-preprocesori.-sass/zanyattya-24/utilitni-klasi.-principi-pobudovi-dizain-sistemi.md)
-* Модуль 11. CSS Frameworks
-  * [CSS Фреймворки](module-09.-preprocesori.-sass/modul-11.-css-frameworks/css-freimvorki.md)
-  * [Модульна сітка](module-09.-preprocesori.-sass/modul-11.-css-frameworks/modulna-sitka.md)
 
 ## Модуль 10. CSS Методології
 
-* [CSS-методології](modul-10.-css-metodologiyi/css-metodologiyi.md)
-* [Методологія BEM](modul-10.-css-metodologiyi/metodologiya-bem.md)
-* [БЕМ - Блок](modul-10.-css-metodologiyi/bem-blok.md)
-* [БЕМ - Елемент](modul-10.-css-metodologiyi/bem-element.md)
-* [БЕМ - Модифікатор](modul-10.-css-metodologiyi/bem-modifikator.md)
-* [Мікс](modul-10.-css-metodologiyi/miks.md)
-* [Селектори](modul-10.-css-metodologiyi/selektori.md)
-* [Секція товарів](modul-10.-css-metodologiyi/sekciya-tovariv.md)
+* [Заняття 25](modul-10.-css-metodologiyi/zanyattya-25/README.md)
+  * [Огляд популярних CSS-методологій](modul-10.-css-metodologiyi/zanyattya-25/oglyad-populyarnikh-css-metodologii.md)
+  * [Методологія BEM](modul-10.-css-metodologiyi/zanyattya-25/metodologiya-bem.md)
+  * [БЕМ - Блок](modul-10.-css-metodologiyi/zanyattya-25/bem-blok.md)
+  * [БЕМ - Елемент](modul-10.-css-metodologiyi/zanyattya-25/bem-element.md)
+  * [БЕМ - Модифікатор](modul-10.-css-metodologiyi/zanyattya-25/bem-modifikator.md)
+  * [Мікс](modul-10.-css-metodologiyi/zanyattya-25/miks.md)
+* [Заняття 26](modul-10.-css-metodologiyi/zanyattya-26/README.md)
+  * [Рефакторинг коду із застосуванням методології BEM](modul-10.-css-metodologiyi/zanyattya-26/refaktoring-kodu-iz-zastosuvannyam-metodologiyi-bem.md)
+
+## Модуль 11. CSS Frameworks
+
+* [CSS Фреймворки](modul-11.-css-frameworks/css-freimvorki.md)
+* [Модульна сітка](modul-11.-css-frameworks/modulna-sitka.md)
