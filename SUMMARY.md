@@ -30,9 +30,10 @@
 * Заняття 22
   * [Директиви SASS](preprocesori/zanyattya-22/direktivi-sass.md)
   * [Flow-control директиви: @if | @each | @for](preprocesori/zanyattya-22/flow-control-direktivi-if-or-each-or-for.md)
-  * [Функції. Директива @function](preprocesori/zanyattya-22/funkciyi.-direktiva-function.md)
+  * [Функції: @function](preprocesori/zanyattya-22/funkciyi-function.md)
 * Заняття 23
-  * [Мапи (словники)](preprocesori/zanyattya-23/mapi-slovniki.md)
+  * [Списки. Про тип List в SASS](preprocesori/zanyattya-23/spiski.-pro-tip-list-v-sass.md)
+  * [Словники. Про тип Map в SASS](preprocesori/zanyattya-23/slovniki.-pro-tip-map-v-sass.md)
 * Заняття 24
   * [Page 4](preprocesori/zanyattya-24/page-4.md)
 * CSS Frameworks
