@@ -36,7 +36,7 @@
   * [Списки](preprocesori/zanyattya-23/spiski.-pro-tip-list-v-sass.md)
   * [Словники](preprocesori/zanyattya-23/slovniki.md)
 * Заняття 24
-  * [Page 4](preprocesori/zanyattya-24/page-4.md)
+  * [Утилітні класи. Принципи побудови дизайн-системи](preprocesori/zanyattya-24/utilitni-klasi.-principi-pobudovi-dizain-sistemi.md)
 * CSS Frameworks
   * [CSS Фреймворки](preprocesori/css-frameworks/css-freimvorki.md)
   * [Модульна сітка](preprocesori/css-frameworks/modulna-sitka.md)
